@@ -74,7 +74,7 @@ I build small, honest tools that bring people closer. My main project is **KBMK*
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=k3ypissr&color=e24b4a" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=k3ypissr.k3ypissr" alt="Profile views" />
 
 <br />
 

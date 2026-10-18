@@ -41,8 +41,6 @@ I build small, honest tools that bring people closer. My main project is **KBMK*
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=k3ypissr&show_icons=true&count_private=true&title_color=e24b4a&icon_color=e24b4a&text_color=333333&bg_color=ffffff&border_color=e4e4e4" alt="K3ypissr's GitHub statistics" />
 <img height="165" src="https://streak-stats.demolab.com?user=k3ypissr&background=ffffff&border=e4e4e4&ring=e24b4a&fire=e24b4a&currStreakLabel=e24b4a" alt="K3ypissr's contribution streak" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3ypissr&layout=compact&title_color=e24b4a&text_color=333333&bg_color=ffffff&border_color=e4e4e4" alt="Most used languages" />
-
 </div>
 
 ---
@@ -76,7 +74,7 @@ I build small, honest tools that bring people closer. My main project is **KBMK*
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=k3ypissr&color=e24b4a&style=flat-square&label=Profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=k3ypissr&color=e24b4a" alt="Profile views" />
 
 <br />
 

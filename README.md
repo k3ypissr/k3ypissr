@@ -4,7 +4,6 @@
 
 <a href="https://github.com/k3ypissr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=E24B4A&center=true&vCenter=true&width=660&lines=Builder+of+KBMK;Type+in+your+language+%E2%80%94+read+it+in+theirs;Speak%2C+with+your+heart+open" alt="Builder of KBMK" /></a>
 
-🇧🇩 Dhaka, Bangladesh
 
 </div>
 

@@ -1,9 +1,8 @@
 <div align="center">
 
-# MD Shihab Arman
+# K3ypissr
 
-<a href="https://github.com/k3ypissr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=E24B4A&center=true&vCenter=true&width=660&lines=Builder+of+KBMK;Type+in+your+language+%E2%80%94+read+it+in+theirs;Speak%2C+with+your+heart+open" alt="Builder of KBMK" /></a>
-
+<a href="https://github.com/k3ypissr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=E24B4A&center=true&vCenter=true&width=660&lines=Type+in+your+language+%E2%80%94+read+it+in+theirs;Speak%2C+with+your+heart+open" alt="K3ypissr" /></a>
 
 </div>
 
@@ -39,8 +38,8 @@ I build small, honest tools that bring people closer. My main project is **KBMK*
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=k3ypissr&show_icons=true&count_private=true&title_color=e24b4a&icon_color=e24b4a&text_color=333333&bg_color=ffffff&border_color=e4e4e4" alt="Shihab's GitHub statistics" />
-<img height="165" src="https://streak-stats.demolab.com?user=k3ypissr&background=ffffff&border=e4e4e4&ring=e24b4a&fire=e24b4a&currStreakLabel=e24b4a" alt="Shihab's contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=k3ypissr&show_icons=true&count_private=true&title_color=e24b4a&icon_color=e24b4a&text_color=333333&bg_color=ffffff&border_color=e4e4e4" alt="K3ypissr's GitHub statistics" />
+<img height="165" src="https://streak-stats.demolab.com?user=k3ypissr&background=ffffff&border=e4e4e4&ring=e24b4a&fire=e24b4a&currStreakLabel=e24b4a" alt="K3ypissr's contribution streak" />
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3ypissr&layout=compact&title_color=e24b4a&text_color=333333&bg_color=ffffff&border_color=e4e4e4" alt="Most used languages" />
 

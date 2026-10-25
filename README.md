@@ -22,8 +22,8 @@
 
 <div align="center">
 
-<a href="https://github.com/k3ypissr/KBMK/releases/download/v0.6.2/KBMK.Setup.0.6.2.exe"><img src="https://img.shields.io/badge/Download-Windows%20Installer-e24b4a?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Windows installer" /></a>
-<a href="https://github.com/k3ypissr/KBMK/releases/download/v0.6.2/KBMK-Portable.exe"><img src="https://img.shields.io/badge/Download-Windows%20Portable-333333?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Windows portable build" /></a>
+<a href="https://github.com/k3ypissr/KBMK/releases/download/v0.7.0/KBMK.Setup.0.7.0.exe"><img src="https://img.shields.io/badge/Download-Windows%20Installer-e24b4a?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Windows installer" /></a>
+<a href="https://github.com/k3ypissr/KBMK/releases/download/v0.7.0/KBMK-Portable.exe"><img src="https://img.shields.io/badge/Download-Windows%20Portable-333333?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Windows portable build" /></a>
 <a href="https://github.com/k3ypissr/KBMK"><img src="https://img.shields.io/badge/Repository-KBMK-175d6e?style=for-the-badge&logo=github&logoColor=white" alt="Open the KBMK repository" /></a>
 
 </div>

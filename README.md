@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=k3ypissr&show_icons=true&count_private=true&custom_title=K3ypissr%27s+GitHub+Stats&title_color=e24b4a&icon_color=e24b4a&text_color=333333&bg_color=ffffff&border_color=e4e4e4" alt="K3ypissr's GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=k3ypissr&show_icons=true&count_private=true&custom_title=K3ypissr%27s+GitHub+Stats&title_color=e24b4a&icon_color=e24b4a&text_color=333333&bg_color=ffffff&border_color=e4e4e4" alt="K3ypissr's GitHub statistics" />
 <img height="165" src="https://streak-stats.demolab.com?user=k3ypissr&background=ffffff&border=e4e4e4&ring=e24b4a&fire=e24b4a&currStreakLabel=e24b4a" alt="K3ypissr's contribution streak" />
 
 </div>

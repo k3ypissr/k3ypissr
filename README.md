@@ -39,7 +39,6 @@
 
 <br />
 
-<a href="https://fatal-circuit.vercel.app/"><img src="https://img.shields.io/badge/▶_Play_Now-F59E0B?style=for-the-badge&logoColor=white" alt="Play Fatal Circuit now" /></a>
 <a href="https://github.com/k3ypissr/Fatal-Circuit"><img src="https://img.shields.io/badge/Repository-Fatal%20Circuit-333333?style=for-the-badge&logo=github&logoColor=white" alt="Open the Fatal Circuit repository" /></a>
 <a href="https://k3ypissr.github.io/Fatal-Circuit/"><img src="https://img.shields.io/badge/Landing_Page-0B0E14?style=for-the-badge&logo=githubpages&logoColor=white" alt="Fatal Circuit landing page" /></a>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="name.svg" alt="K3ypissr" width="360" />
+<img src="assets/name.svg" alt="K3ypissr" width="360" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E24B4A&center=true&vCenter=true&width=660&lines=BR0K3N+K3YB04RD+doesn%27t+work.;So%2C+piss+on+k3y+to+strokes+smoother." alt="BR0K3N K3YB04RD doesn't work. So, piss on k3y to strokes smoother." />
 
@@ -33,7 +33,7 @@
 
 ### 🥊 Fatal Circuit — Street Crown
 
-<a href="https://fatal-circuit.vercel.app/"><img src="https://raw.githubusercontent.com/k3ypissr/k3ypissr/main/fatal-circuit-banner.jpg" alt="Fatal Circuit: Street Crown — the heroes standing in the neon city" width="100%" /></a>
+<a href="https://fatal-circuit.vercel.app/"><img src="https://raw.githubusercontent.com/k3ypissr/k3ypissr/main/assets/fatal-circuit-banner.jpg" alt="Fatal Circuit: Street Crown — the heroes standing in the neon city" width="100%" /></a>
 
 **16-bit Neo-Geo 1v1 fighting game.** Six-button arcade combat, deterministic rollback netcode, and instant WebRTC / LAN lobbies. 8 fighters, 6 modes — arcade ladder, survival, local versus, training, combo trials, and online — across 4 painted stages.
 

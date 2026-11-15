@@ -4,29 +4,48 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E24B4A&center=true&vCenter=true&width=660&lines=BR0K3N+K3YB04RD+doesn%27t+work.;So%2C+piss+on+k3y+to+strokes+smoother." alt="BR0K3N K3YB04RD doesn't work. So, piss on k3y to strokes smoother." />
 
+<sub>quiet tools, built patiently.</sub>
+
 </div>
 
 ---
 
-## 🌉 Featured project — KBMK
+## 🚀 Projects
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🌉 KBMK — Kotha Bolo Mon Khule
 
 <a href="https://github.com/k3ypissr/KBMK"><img src="https://raw.githubusercontent.com/k3ypissr/KBMK/main/docs/banner.svg" alt="KBMK — Kotha Bolo Mon Khule" width="100%" /></a>
 
-<a href="https://github.com/k3ypissr/KBMK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=k3ypissr&repo=KBMK&title_color=e24b4a&icon_color=e24b4a&text_color=333333&bg_color=ffffff&border_color=e4e4e4" alt="KBMK repository" /></a>
+**Real-time, on-screen translation.** Type a word in one language, press space, and it is replaced in place by its translation — in any app. 100+ languages, your choice of Google, Azure or DeepL keys (stored only in your OS key store), a per-app block list for password managers, paste-translation offers, and zero telemetry.
 
-</div>
-
-**KBMK (Kotha Bolo Mon Khule)** is a real-time, on-screen translation tool: type a word in one language, press space, and it is replaced in place by its translation — in any app. 100+ languages, your choice of Google, Azure or DeepL keys (stored only in your OS key store), a per-app block list for password managers, paste-translation offers, and zero telemetry.
-
-<div align="center">
+<br />
 
 <a href="https://github.com/k3ypissr/KBMK/releases/download/v0.7.0/KBMK.Setup.0.7.0.exe"><img src="https://img.shields.io/badge/Download-Windows%20Installer-e24b4a?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Windows installer" /></a>
 <a href="https://github.com/k3ypissr/KBMK/releases/download/v0.7.0/KBMK-Portable.exe"><img src="https://img.shields.io/badge/Download-Windows%20Portable-333333?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Windows portable build" /></a>
 <a href="https://github.com/k3ypissr/KBMK"><img src="https://img.shields.io/badge/Repository-KBMK-175d6e?style=for-the-badge&logo=github&logoColor=white" alt="Open the KBMK repository" /></a>
 
-</div>
+</td>
+<td valign="top" width="50%">
+
+### 🥊 Fatal Circuit — Street Crown
+
+<a href="https://fatal-circuit.vercel.app/"><img src="https://fatal-circuit.vercel.app/assets/heroes_feature_poster_1794683402425-J_mGjA2O.jpg" alt="Fatal Circuit: Street Crown — Kaze, Rin, Mason and Ryoma" width="100%" /></a>
+
+**16-bit Neo-Geo 1v1 fighting game.** Six-button arcade combat, deterministic rollback netcode, and instant WebRTC / LAN lobbies. 8 fighters, 6 modes — arcade ladder, survival, local versus, training, combo trials, and online — across 4 painted stages.
+
+<br />
+
+<a href="https://fatal-circuit.vercel.app/"><img src="https://img.shields.io/badge/▶_Play_Now-F59E0B?style=for-the-badge&logoColor=white" alt="Play Fatal Circuit now" /></a>
+<a href="https://github.com/k3ypissr/Fatal-Circuit"><img src="https://img.shields.io/badge/Repository-Fatal%20Circuit-333333?style=for-the-badge&logo=github&logoColor=white" alt="Open the Fatal Circuit repository" /></a>
+<a href="https://k3ypissr.github.io/Fatal-Circuit/"><img src="https://img.shields.io/badge/Landing_Page-0B0E14?style=for-the-badge&logo=githubpages&logoColor=white" alt="Fatal Circuit landing page" /></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -46,6 +65,9 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />

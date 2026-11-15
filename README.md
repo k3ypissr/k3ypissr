@@ -33,7 +33,7 @@
 
 ### 🥊 Fatal Circuit — Street Crown
 
-<a href="https://fatal-circuit.vercel.app/"><img src="https://fatal-circuit.vercel.app/assets/heroes_feature_poster_1794683402425-J_mGjA2O.jpg" alt="Fatal Circuit: Street Crown — Kaze, Rin, Mason and Ryoma" width="100%" /></a>
+<a href="https://fatal-circuit.vercel.app/"><img src="https://raw.githubusercontent.com/k3ypissr/k3ypissr/main/fatal-circuit-banner.jpg" alt="Fatal Circuit: Street Crown — the heroes standing in the neon city" width="100%" /></a>
 
 **16-bit Neo-Geo 1v1 fighting game.** Six-button arcade combat, deterministic rollback netcode, and instant WebRTC / LAN lobbies. 8 fighters, 6 modes — arcade ladder, survival, local versus, training, combo trials, and online — across 4 painted stages.
 

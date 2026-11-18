@@ -84,8 +84,8 @@
 <div align="center">
 
 <a href="https://github.com/k3ypissr"><img src="https://img.shields.io/badge/GitHub-k3ypissr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://discord.gg/h6fP8WTtjT"><img src="https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://www.facebook.com/kbmkofficial"><img src="https://img.shields.io/badge/Facebook-KBMK%20Official-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://k3ypissr.github.io/KBMK/"><img src="https://img.shields.io/badge/KBMK-Website-e24b4a?style=for-the-badge&logo=githubpages&logoColor=white" alt="KBMK website" /></a>
+<a href="https://k3ypissr.github.io/Fatal-Circuit/"><img src="https://img.shields.io/badge/Fatal_Circuit-Website-0B0E14?style=for-the-badge&logo=githubpages&logoColor=white" alt="Fatal Circuit website" /></a>
 
 <br /><br />
 

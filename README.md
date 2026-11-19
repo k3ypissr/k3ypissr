@@ -42,6 +42,21 @@
 
 </td>
 </tr>
+<tr>
+<td valign="top" colspan="2">
+
+### 💥 K3ypissr NukeBar
+
+**The classic HackBar, rebuilt for Chrome & Firefox.** Manifest V3 builds for both browsers — 3,652 payloads across 177 menus, header replay, decoder, Admin Finder, Reverse IP and a network viewer. Plus the legacy XUL build for Firefox 1.5–6.0, kept for history. For authorised security testing only.
+
+<br />
+
+<a href="https://github.com/k3ypissr/nukebar-chrome"><img src="https://img.shields.io/badge/Repository-Chrome-333333?style=for-the-badge&logo=github&logoColor=white" alt="Open the NukeBar Chrome repository" /></a>
+<a href="https://github.com/k3ypissr/nukebar-firefox"><img src="https://img.shields.io/badge/Repository-Firefox-333333?style=for-the-badge&logo=github&logoColor=white" alt="Open the NukeBar Firefox repository" /></a>
+<a href="https://k3ypissr.github.io/Nukebar/"><img src="https://img.shields.io/badge/Landing_Page-a9855a?style=for-the-badge&logo=githubpages&logoColor=white" alt="NukeBar landing page" /></a>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -86,6 +101,7 @@
 <a href="https://github.com/k3ypissr"><img src="https://img.shields.io/badge/GitHub-k3ypissr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://k3ypissr.github.io/KBMK/"><img src="https://img.shields.io/badge/KBMK-Website-e24b4a?style=for-the-badge&logo=githubpages&logoColor=white" alt="KBMK website" /></a>
 <a href="https://k3ypissr.github.io/Fatal-Circuit/"><img src="https://img.shields.io/badge/Fatal_Circuit-Website-0B0E14?style=for-the-badge&logo=githubpages&logoColor=white" alt="Fatal Circuit website" /></a>
+<a href="https://k3ypissr.github.io/Nukebar/"><img src="https://img.shields.io/badge/NukeBar-Website-a9855a?style=for-the-badge&logo=githubpages&logoColor=white" alt="NukeBar website" /></a>
 
 <br /><br />
 

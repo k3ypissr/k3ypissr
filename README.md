@@ -1,1 +1,116 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgc3JjPSJhc3NldHMvbmFtZS5zdmciIGFsdD0iSzN5cGlzc3IiIHdpZHRoPSIzNjAiIC8+Cgo8aW1nIHNyYz0iaHR0cHM6Ly9yZWFkbWUtdHlwaW5nLXN2Zy5kZW1vbGFiLmNvbT9mb250PUZpcmErQ29kZSZ3ZWlnaHQ9NjAwJnNpemU9MjAmcGF1c2U9MTIwMCZjb2xvcj1FMjRCNEEmY2VudGVyPXRydWUmdkNlbnRlcj10cnVlJndpZHRoPTY2MCZsaW5lcz1CUjBLM04rSzNZQjA0UkQrZG9lc24lMjd0K3dvcmsuO1NvJTJDK3Bpc3Mrb24razN5K3RvK3N0cm9rZXMrc21vb3RoZXIuIiBhbHQ9IkJSMEszTiBLM1lCMDRSRCBkb2Vzbid0IHdvcmsuIFNvLCBwaXNzIG9uIGszeSB0byBzdHJva2VzIHNtb290aGVyLiIgLz4KCjwvZGl2PgoKLS0tCgojIyDwn5qAIFByb2plY3RzCgo8dGFibGU+Cjx0cj4KPHRkIHZhbGlnbj0idG9wIiB3aWR0aD0iNTAlIj4KCiMjIyDwn4yJIEtCTUsg4oCUIEtvdGhhIEJvbG8gTW9uIEtodWxlCgo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vazN5cGlzc3IvS0JNSyI+PGltZyBzcmM9Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9rM3lwaXNzci9LQk1LL21haW4vZG9jcy9iYW5uZXIuc3ZnIiBhbHQ9IktCTUsg4oCUIEtvdGhhIEJvbG8gTW9uIEtodWxlIiB3aWR0aD0iMTAwJSIgLz48L2E+CgoqKlJlYWwtdGltZSwgb24tc2NyZWVuIHRyYW5zbGF0aW9uLioqIFR5cGUgYSB3b3JkIGluIG9uZSBsYW5ndWFnZSwgcHJlc3Mgc3BhY2UsIGFuZCBpdCBpcyByZXBsYWNlZCBpbiBwbGFjZSBieSBpdHMgdHJhbnNsYXRpb24g4oCUIGluIGFueSBhcHAuIDEwMCsgbGFuZ3VhZ2VzLCB5b3VyIGNob2ljZSBvZiBHb29nbGUsIEF6dXJlIG9yIERlZXBMIGtleXMgKHN0b3JlZCBvbmx5IGluIHlvdXIgT1Mga2V5IHN0b3JlKSwgYSBwZXItYXBwIGJsb2NrIGxpc3QgZm9yIHBhc3N3b3JkIG1hbmFnZXJzLCBwYXN0ZS10cmFuc2xhdGlvbiBvZmZlcnMsIGFuZCB6ZXJvIHRlbGVtZXRyeS4KCjxiciAvPgoKPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2szeXBpc3NyL0tCTUsvcmVsZWFzZXMvZG93bmxvYWQvdjAuNy4wL0tCTUsuU2V0dXAuMC43LjAuZXhlIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Eb3dubG9hZC1XaW5kb3dzJTIwSW5zdGFsbGVyLWUyNGI0YT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289d2luZG93cyZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iRG93bmxvYWQgdGhlIFdpbmRvd3MgaW5zdGFsbGVyIiAvPjwvYT4KPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2szeXBpc3NyL0tCTUsvcmVsZWFzZXMvZG93bmxvYWQvdjAuNy4wL0tCTUstUG9ydGFibGUuZXhlIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Eb3dubG9hZC1XaW5kb3dzJTIwUG9ydGFibGUtMzMzMzMzP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz13aW5kb3dzJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJEb3dubG9hZCB0aGUgV2luZG93cyBwb3J0YWJsZSBidWlsZCIgLz48L2E+CjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9rM3lwaXNzci9LQk1LIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9SZXBvc2l0b3J5LUtCTUstMTc1ZDZlP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1naXRodWImbG9nb0NvbG9yPXdoaXRlIiBhbHQ9Ik9wZW4gdGhlIEtCTUsgcmVwb3NpdG9yeSIgLz48L2E+Cgo8L3RkPgo8dGQgdmFsaWduPSJ0b3AiIHdpZHRoPSI1MCUiPgoKIyMjIPCfpYogRmF0YWwgQ2lyY3VpdCDigJQgU3RyZWV0IENyb3duCgo8YSBocmVmPSJodHRwczovL2ZhdGFsLWNpcmN1aXQudmVyY2VsLmFwcC8iPjxpbWcgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vazN5cGlzc3IvazN5cGlzc3IvbWFpbi9hc3NldHMvZmF0YWwtY2lyY3VpdC1iYW5uZXIuanBnIiBhbHQ9IkZhdGFsIENpcmN1aXQ6IFN0cmVldCBDcm93biDigJQgdGhlIGhlcm9lcyBzdGFuZGluZyBpbiB0aGUgbmVvbiBjaXR5IiB3aWR0aD0iMTAwJSIgLz48L2E+CgoqKjE2LWJpdCBOZW8tR2VvIDF2MSBmaWdodGluZyBnYW1lLioqIFNpeC1idXR0b24gYXJjYWRlIGNvbWJhdCwgZGV0ZXJtaW5pc3RpYyByb2xsYmFjayBuZXRjb2RlLCBhbmQgaW5zdGFudCBXZWJSVEMgLyBMQU4gbG9iYmllcy4gOCBmaWdodGVycywgNiBtb2RlcyDigJQgYXJjYWRlIGxhZGRlciwgc3Vydml2YWwsIGxvY2FsIHZlcnN1cywgdHJhaW5pbmcsIGNvbWJvIHRyaWFscywgYW5kIG9ubGluZSDigJQgYWNyb3NzIDQgcGFpbnRlZCBzdGFnZXMuCgo8YnIgLz4KCjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9rM3lwaXNzci9GYXRhbC1DaXJjdWl0Ij48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9SZXBvc2l0b3J5LUZhdGFsJTIwQ2lyY3VpdC0zMzMzMzM/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdGh1YiZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iT3BlbiB0aGUgRmF0YWwgQ2lyY3VpdCByZXBvc2l0b3J5IiAvPjwvYT4KPGEgaHJlZj0iaHR0cHM6Ly9rM3lwaXNzci5naXRodWIuaW8vRmF0YWwtQ2lyY3VpdC8iPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xhbmRpbmdfUGFnZS0wQjBFMTQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdGh1YnBhZ2VzJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJGYXRhbCBDaXJjdWl0IGxhbmRpbmcgcGFnZSIgLz48L2E+Cgo8L3RkPgo8L3RyPgo8dHI+Cjx0ZCB2YWxpZ249InRvcCIgY29sc3Bhbj0iMiI+CgojIyMg8J+SpSBLM3lwaXNzciBOdWtlQmFyCgoqKlRoZSBjbGFzc2ljIEhhY2tCYXIsIHJlYnVpbHQgZm9yIENocm9tZSAmIEZpcmVmb3guKiogTWFuaWZlc3QgVjMgYnVpbGRzIGZvciBib3RoIGJyb3dzZXJzIOKAlCAzLDY1MiBwYXlsb2FkcyBhY3Jvc3MgMTc3IG1lbnVzLCBoZWFkZXIgcmVwbGF5LCBkZWNvZGVyLCBBZG1pbiBGaW5kZXIsIFJldmVyc2UgSVAgYW5kIGEgbmV0d29yayB2aWV3ZXIuIFBsdXMgdGhlIGxlZ2FjeSBYVUwgYnVpbGQgZm9yIEZpcmVmb3ggMS414oCTNi4wLCBrZXB0IGZvciBoaXN0b3J5LiBGb3IgYXV0aG9yaXNlZCBzZWN1cml0eSB0ZXN0aW5nIG9ubHkuCgo8aW1nIHNyYz0iYXNzZXRzL251a2ViYXItcGFuZWwucG5nIiBhbHQ9IkszeXBpc3NyIE51a2VCYXIgcGFuZWwiIHdpZHRoPSIxMDAlIiAvPgoKPGJyIC8+Cgo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vazN5cGlzc3IvbnVrZWJhci1jaHJvbWUiPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1JlcG9zaXRvcnktQ2hyb21lLTMzMzMzMz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0aHViJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJPcGVuIHRoZSBOdWtlQmFyIENocm9tZSByZXBvc2l0b3J5IiAvPjwvYT4KPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2szeXBpc3NyL251a2ViYXItZmlyZWZveCI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUmVwb3NpdG9yeS1GaXJlZm94LTMzMzMzMz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0aHViJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJPcGVuIHRoZSBOdWtlQmFyIEZpcmVmb3ggcmVwb3NpdG9yeSIgLz48L2E+CjxhIGhyZWY9Imh0dHBzOi8vazN5cGlzc3IuZ2l0aHViLmlvL051a2ViYXIvIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MYW5kaW5nX1BhZ2UtYTk4NTVhP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1naXRodWJwYWdlcyZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iTnVrZUJhciBsYW5kaW5nIHBhZ2UiIC8+PC9hPgoKPC90ZD4KPC90cj4KPC90YWJsZT4KCi0tLQoKIyMg8J+TiiBHaXRIdWIgc3RhdGlzdGljcwoKPGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgaGVpZ2h0PSIxNjUiIHNyYz0iaHR0cHM6Ly9naXRodWItc3RhdHMtZXh0ZW5kZWQudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9azN5cGlzc3Imc2hvd19pY29ucz10cnVlJmNvdW50X3ByaXZhdGU9dHJ1ZSZjdXN0b21fdGl0bGU9SzN5cGlzc3IlMjdzK0dpdEh1YitTdGF0cyZ0aXRsZV9jb2xvcj1lMjRiNGEmaWNvbl9jb2xvcj1lMjRiNGEmdGV4dF9jb2xvcj0zMzMzMzMmYmdfY29sb3I9ZmZmZmZmJmJvcmRlcl9jb2xvcj1lNGU0ZTQiIGFsdD0iSzN5cGlzc3IncyBHaXRIdWIgc3RhdGlzdGljcyIgLz4KPGltZyBoZWlnaHQ9IjE2NSIgc3JjPSJodHRwczovL3N0cmVhay1zdGF0cy5kZW1vbGFiLmNvbT91c2VyPWszeXBpc3NyJmJhY2tncm91bmQ9ZmZmZmZmJmJvcmRlcj1lNGU0ZTQmcmluZz1lMjRiNGEmZmlyZT1lMjRiNGEmY3VyclN0cmVha0xhYmVsPWUyNGI0YSIgYWx0PSJLM3lwaXNzcidzIGNvbnRyaWJ1dGlvbiBzdHJlYWsiIC8+Cgo8L2Rpdj4KCi0tLQoKIyMg8J+boO+4jyBUb29scyBJIHdvcmsgd2l0aAoKPGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1R5cGVTY3JpcHQtMzE3OEM2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz10eXBlc2NyaXB0JmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJUeXBlU2NyaXB0IiAvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9SZWFjdC02MURBRkI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXJlYWN0JmxvZ29Db2xvcj1ibGFjayIgYWx0PSJSZWFjdCIgLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVml0ZS02NDZDRkY/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXZpdGUmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IlZpdGUiIC8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1RhaWx3aW5kX0NTUy0wNkI2RDQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXRhaWx3aW5kY3NzJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJUYWlsd2luZCBDU1MiIC8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0VsZWN0cm9uLTQ3ODQ4Rj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289ZWxlY3Ryb24mbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IkVsZWN0cm9uIiAvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Ob2RlLmpzLTMzOTkzMz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bm9kZS5qcyZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iTm9kZS5qcyIgLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvSmF2YVNjcmlwdC1GN0RGMUU/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWphdmFzY3JpcHQmbG9nb0NvbG9yPWJsYWNrIiBhbHQ9IkphdmFTY3JpcHQiIC8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0hUTUw1LUUzNEYyNj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289aHRtbDUmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IkhUTUw1IiAvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9DU1MzLTE1NzJCNj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Y3NzMyZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iQ1NTMyIgLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0LUYwNTAzMj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0JmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJHaXQiIC8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1ZTJTIwQ29kZS0wMDdBQ0M/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXZpc3VhbHN0dWRpb2NvZGUmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IlZTIENvZGUiIC8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1dpbmRvd3MtMDA3OEQ2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz13aW5kb3dzJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJXaW5kb3dzIiAvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaW51eC0zMzMzMzM/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWxpbnV4JmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJMaW51eCIgLz4KCjwvZGl2PgoKLS0tCgojIyDwn6SdIENvbm5lY3QKCjxkaXYgYWxpZ249ImNlbnRlciI+Cgo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vazN5cGlzc3IiPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpdEh1Yi1rM3lwaXNzci0xODE3MTc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdGh1YiZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iR2l0SHViIiAvPjwvYT4KPGEgaHJlZj0iaHR0cHM6Ly9rM3lwaXNzci5naXRodWIuaW8vS0JNSy8iPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0tCTUstV2Vic2l0ZS1lMjRiNGE/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdGh1YnBhZ2VzJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJLQk1LIHdlYnNpdGUiIC8+PC9hPgo8YSBocmVmPSJodHRwczovL2szeXBpc3NyLmdpdGh1Yi5pby9GYXRhbC1DaXJjdWl0LyI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvRmF0YWxfQ2lyY3VpdC1XZWJzaXRlLTBCMEUxND9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0aHVicGFnZXMmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IkZhdGFsIENpcmN1aXQgd2Vic2l0ZSIgLz48L2E+CjxhIGhyZWY9Imh0dHBzOi8vazN5cGlzc3IuZ2l0aHViLmlvL051a2ViYXIvIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9OdWtlQmFyLVdlYnNpdGUtYTk4NTVhP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1naXRodWJwYWdlcyZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iTnVrZUJhciB3ZWJzaXRlIiAvPjwvYT4KCjxiciAvPjxiciAvPgoKPGltZyBzcmM9Imh0dHBzOi8vdmlzaXRvci1iYWRnZS5sYW9iaS5pY3UvYmFkZ2U/cGFnZV9pZD1rM3lwaXNzci5rM3lwaXNzciIgYWx0PSJQcm9maWxlIHZpZXdzIiAvPgoKPGJyIC8+Cgo8c3ViPk1vcmUgdGhhbiBzb2Z0d2FyZSwgS0JNSyBpcyBhIGJyaWRnZSDigJQgYnVpbHQgc28gZXZlcnkgdm9pY2UgY2FuIGJlIGhlYXJkLCBhbmQgZXZlcnkgaGVhcnQgY2FuIGJlIHVuZGVyc3Rvb2QuPC9zdWI+Cgo8L2Rpdj4K
+<div align="center">
+
+<img src="assets/name.svg" alt="K3ypissr" width="360" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E24B4A&center=true&vCenter=true&width=660&lines=BR0K3N+K3YB04RD+doesn%27t+work.;So%2C+piss+on+k3y+to+strokes+smoother." alt="BR0K3N K3YB04RD doesn't work. So, piss on k3y to strokes smoother." />
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🌉 KBMK — Kotha Bolo Mon Khule
+
+<a href="https://github.com/k3ypissr/KBMK"><img src="https://raw.githubusercontent.com/k3ypissr/KBMK/main/docs/banner.svg" alt="KBMK — Kotha Bolo Mon Khule" width="100%" /></a>
+
+**Real-time, on-screen translation.** Type a word in one language, press space, and it is replaced in place by its translation — in any app. 100+ languages, your choice of Google, Azure or DeepL keys (stored only in your OS key store), a per-app block list for password managers, paste-translation offers, and zero telemetry.
+
+<br />
+
+<a href="https://github.com/k3ypissr/KBMK/releases/download/v0.7.0/KBMK.Setup.0.7.0.exe"><img src="https://img.shields.io/badge/Download-Windows%20Installer-e24b4a?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Windows installer" /></a>
+<a href="https://github.com/k3ypissr/KBMK/releases/download/v0.7.0/KBMK-Portable.exe"><img src="https://img.shields.io/badge/Download-Windows%20Portable-333333?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Windows portable build" /></a>
+<a href="https://github.com/k3ypissr/KBMK"><img src="https://img.shields.io/badge/Repository-KBMK-175d6e?style=for-the-badge&logo=github&logoColor=white" alt="Open the KBMK repository" /></a>
+
+</td>
+<td valign="top" width="50%">
+
+### 🥊 Fatal Circuit — Street Crown
+
+<a href="https://fatal-circuit.vercel.app/"><img src="https://raw.githubusercontent.com/k3ypissr/k3ypissr/main/assets/fatal-circuit-banner.jpg" alt="Fatal Circuit: Street Crown — the heroes standing in the neon city" width="100%" /></a>
+
+**16-bit Neo-Geo 1v1 fighting game.** Six-button arcade combat, deterministic rollback netcode, and instant WebRTC / LAN lobbies. 8 fighters, 6 modes — arcade ladder, survival, local versus, training, combo trials, and online — across 4 painted stages.
+
+<br />
+
+<a href="https://github.com/k3ypissr/Fatal-Circuit"><img src="https://img.shields.io/badge/Repository-Fatal%20Circuit-333333?style=for-the-badge&logo=github&logoColor=white" alt="Open the Fatal Circuit repository" /></a>
+<a href="https://k3ypissr.github.io/Fatal-Circuit/"><img src="https://img.shields.io/badge/Landing_Page-0B0E14?style=for-the-badge&logo=githubpages&logoColor=white" alt="Fatal Circuit landing page" /></a>
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
+### 💥 K3ypissr NukeBar
+
+**The classic HackBar, rebuilt for Chrome & Firefox.** Manifest V3 builds for both browsers — 3,652 payloads across 177 menus, header replay, decoder, Admin Finder, Reverse IP and a network viewer. Plus the legacy XUL build for Firefox 1.5–6.0, kept for history. For authorised security testing only.
+
+<img src="assets/nukebar-panel.png" alt="K3ypissr NukeBar panel" width="100%" />
+
+<br />
+
+<a href="https://github.com/k3ypissr/nukebar-chrome"><img src="https://img.shields.io/badge/Repository-Chrome-333333?style=for-the-badge&logo=github&logoColor=white" alt="Open the NukeBar Chrome repository" /></a>
+<a href="https://github.com/k3ypissr/nukebar-firefox"><img src="https://img.shields.io/badge/Repository-Firefox-333333?style=for-the-badge&logo=github&logoColor=white" alt="Open the NukeBar Firefox repository" /></a>
+<a href="https://k3ypissr.github.io/Nukebar/"><img src="https://img.shields.io/badge/Landing_Page-a9855a?style=for-the-badge&logo=githubpages&logoColor=white" alt="NukeBar landing page" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub statistics
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=k3ypissr&show_icons=true&count_private=true&custom_title=K3ypissr%27s+GitHub+Stats&title_color=e24b4a&icon_color=e24b4a&text_color=333333&bg_color=ffffff&border_color=e4e4e4" alt="K3ypissr's GitHub statistics" />
+<img height="165" src="https://streak-stats.demolab.com?user=k3ypissr&background=ffffff&border=e4e4e4&ring=e24b4a&fire=e24b4a&currStreakLabel=e24b4a" alt="K3ypissr's contribution streak" />
+
+</div>
+
+---
+
+## 🛠️ Tools I work with
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/k3ypissr"><img src="https://img.shields.io/badge/GitHub-k3ypissr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://k3ypissr.github.io/KBMK/"><img src="https://img.shields.io/badge/KBMK-Website-e24b4a?style=for-the-badge&logo=githubpages&logoColor=white" alt="KBMK website" /></a>
+<a href="https://k3ypissr.github.io/Fatal-Circuit/"><img src="https://img.shields.io/badge/Fatal_Circuit-Website-0B0E14?style=for-the-badge&logo=githubpages&logoColor=white" alt="Fatal Circuit website" /></a>
+<a href="https://k3ypissr.github.io/Nukebar/"><img src="https://img.shields.io/badge/NukeBar-Website-a9855a?style=for-the-badge&logo=githubpages&logoColor=white" alt="NukeBar website" /></a>
+
+<br /><br />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=k3ypissr.k3ypissr" alt="Profile views" />
+
+<br />
+
+<sub>More than software, KBMK is a bridge — built so every voice can be heard, and every heart can be understood.</sub>
+
+</div>

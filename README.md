@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/name.svg" alt="K3ypissr" width="360" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E24B4A&center=true&vCenter=true&width=660&lines=BR0K3N+K3YB04RD+doesn%27t+work.;So%2C+piss+on+k3y+to+strokes+smoother." alt="BR0K3N K3YB04RD doesn't work. So, piss on k3y to strokes smoother." />
+<img src="assets/terminal.svg" alt="k3ypissr — terminal: whoami, ./about" width="680" />
 
 </div>
 
